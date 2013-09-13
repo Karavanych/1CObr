@@ -29,6 +29,16 @@ local.properties
 .buildpath
 
 
+# 1C massive file
+*.cf
+*.dt
+*.zip
+*.rar
+*.txt
+
+
+
+
 #################
 ## Visual Studio
 #################
