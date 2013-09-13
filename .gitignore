@@ -35,6 +35,10 @@ local.properties
 *.zip
 *.rar
 *.txt
+*.xls
+*.mxl
+*.xml
+*.xlsx
 
 
 
