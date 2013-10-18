@@ -39,6 +39,7 @@ local.properties
 *.mxl
 *.xml
 *.xlsx
+*.dat
 
 
 
